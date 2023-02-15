@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "287950978328",
+    "project_id": "passvault-cdf88",
+    "storage_bucket": "passvault-cdf88.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:287950978328:android:fce4a06da4541b2af1726d",
+        "android_client_info": {
+          "package_name": "com.example.passwordmanagerapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "287950978328-kd3sfcig4aai5glvdeeeicpeak6vauq3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCwNgAR7k4QUep6qM2sK06zmW09HJwSqe8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "287950978328-kd3sfcig4aai5glvdeeeicpeak6vauq3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
